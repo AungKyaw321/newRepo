@@ -5,14 +5,14 @@
 > I'm Gonna Make him an offer he can't refuse. It's from the GodFather
 ### Some Things I really enjoy
 ```
-playing badminton
+playing badmintons
 kayaking
 swimming
 ```
 #### External Links
 My most used reference for coding C++ [Geek for Geeks](https://www.geeksforgeeks.org/c-plus-plus/)
 ### Section Links
-[Some things I really enjoy](index.md)
+[Some things I really enjoy](#ordered-list-for-favorite-games)
 ### Relative Links
 [The ReadMe File](README.md)
 ### Image
