@@ -12,7 +12,7 @@ swimming
 #### External Links
 My most used reference for coding C++ [Geek for Geeks](https://www.geeksforgeeks.org/c-plus-plus/)
 ### Section Links
-[Some things I really enjoy](#ordered-list-for-favorite-games)
+[Ordered List of Favorite Games](#ordered-list-for-favorite-games)
 ### Relative Links
 [The ReadMe File](README.md)
 ### Image
